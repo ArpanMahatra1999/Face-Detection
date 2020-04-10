@@ -1,8 +1,6 @@
 # Face-Detection
 Python code for detecting face (and other features) by openCV and cascade classifier.
 
-Python code for basic computer vision.
-
 Tools used:
 1. Pycharm Community Edition 2019.3.1
 
